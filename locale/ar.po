@@ -1,0 +1,104 @@
+msgid ""
+msgstr "Project-Id-Version: AppIndicatorExtension
+Report-Msgid-Bugs-To: 
+POT-Creation-Date: 2021-09-27 20:43+0200
+PO-Revision-Date: 2022-03-31 20:14+0200
+Last-Translator: Quentin PAGÈS
+Language-Team: 
+Language: ar
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+Plural-Forms: nplurals=6; plural= n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 ? 4 : 5;
+X-Generator: Poedit 3.0.1
+"
+
+msgid "Enable Legacy Tray Icons support"
+msgstr "تمكين دعم أيقونات الصينية التقليدية"
+
+msgid "Opacity (min: 0, max: 255)"
+msgstr "العتامة (الحد الأدنى: 0، الحد الأقصى: 255)"
+
+msgid "Desaturation (min: 0.0, max: 1.0)"
+msgstr "إزالة التشبع (الحد الأدنى: 0.0، الحد الأقصى: 1.0)"
+
+msgid "Brightness (min: -1.0, max: 1.0)"
+msgstr "السطوع (الحد الأدنى: -1.0، الحد الأقصى: 1.0)"
+
+msgid "Contrast (min: -1.0, max: 1.0)"
+msgstr "التباين (الحد الأدنى: -1.0، الحد الأقصى: 1.0)"
+
+msgid "Icon size (min: 0, max: 96)"
+msgstr "حجم الأيقونة (الحد الأدنى: 0، الحد الأقصى: 96)"
+
+msgid "Tray horizontal alignment"
+msgstr "محاذاة الصينية الأفقية"
+
+msgid "Center"
+msgstr "الوسط"
+
+msgid "Left"
+msgstr "اليسار"
+
+msgid "Right"
+msgstr "اليمين"
+
+msgid "Indicator ID"
+msgstr "معرّف المؤشر"
+
+msgid "Icon Name"
+msgstr "اسم الأيقونة"
+
+msgid "Attention Icon Name"
+msgstr "اسم أيقونة التنبيه"
+
+msgid "Preferences"
+msgstr "التفضيلات"
+
+msgid "Custom Icons"
+msgstr "أيقونات مخصصة"
+
+msgid "Enable legacy tray icons support"
+msgstr "تمكين دعم أيقونات الصينية التقليدية"
+
+msgid "Saturation"
+msgstr "التشبع"
+
+msgid "Brightness"
+msgstr "السطوع"
+
+msgid "Contrast"
+msgstr "التباين"
+
+msgid "Opacity"
+msgstr "العتامة"
+
+msgid "Icon size"
+msgstr "حجم الأيقونة"
+
+msgid "Icon size in pixel"
+msgstr "حجم الأيقونة بالبكسل"
+
+msgid "Icon spacing"
+msgstr "تباعد الأيقونات"
+
+msgid "Icon spacing within the tray"
+msgstr "تباعد الأيقونات داخل الصينية"
+
+msgid "Position in tray"
+msgstr "الموضع في الصينية"
+
+msgid "Set where the Icon tray should appear in Gnome tray"
+msgstr "تحديد مكان ظهور صينية الأيقونات في صينية جنوم"
+
+msgid "Order in tray"
+msgstr "الترتيب في الصينية"
+
+msgid "Set where the Icon tray should appear among other trays"
+msgstr "تحديد مكان ظهور صينية الأيقونات بين الصواني الأخرى"
+
+msgid "Custom icons"
+msgstr "أيقونات مخصصة"
+
+msgid "Replace any icons with custom icons from themes"
+msgstr "استبدال أي أيقونة بأيقونات مخصصة من السمات"
